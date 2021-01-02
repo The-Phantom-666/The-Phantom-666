@@ -1,5 +1,6 @@
-# Hi there I'm Nick 👋
+# Hi there I'm Nick 
 ### Welcome to my page
+<p>I'm Nick aka The Phantom 666 and I am currently learning web development, with a view to becoming a freelance developer. I am originally from the UK but currently residing in the great and wonderful country of Australia.</p>
 <!--
 **The-Phantom-666/The-Phantom-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
