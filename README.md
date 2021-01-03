@@ -4,6 +4,9 @@
 
 ### Current Projects
 <p>I have done some courses on FreeCodeCamp and project based courses on Udemy which led to me building a website for my wifes first book.
+  
+### Current Stack
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.txymF4ffsWbscLZ2tyE2MgHaDt%26pid%3DApi&f=1">
 
 
 
