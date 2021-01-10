@@ -6,7 +6,7 @@
 <p>I have done some courses on FreeCodeCamp and project based courses on Udemy which led to me building a website for my wifes first book.
   
 ### Current Stack
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.txymF4ffsWbscLZ2tyE2MgHaDt%26pid%3DApi&f=1">
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge">
 
 
 
